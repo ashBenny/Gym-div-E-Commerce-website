@@ -1,0 +1,113 @@
+[
+    {
+        "name" : "Abdominal Crunchers",
+        "price" : "8000",
+        "description" : "Abdominal Crunchers",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/ab1_dgxyys",
+            "url" : "https://res.cloudinary.com/dy0tqwsxl/image/upload/v1624208485/products/ab1_dgxyys.jpg"
+        }],
+        "category" : "Abdominal Crunchers",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Cable Pulley Machines",
+        "price" : "8000",
+        "description" : "Cable Pulley Machines",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/cp1_xd0smh",
+            "url" : "https://res.cloudinary.com/dy0tqwsxl/image/upload/v1624208474/products/cp1_xd0smh.jpg"
+        }],
+        "category" : "Cable Pulley Machines",
+        "seller" : "Puma",
+        "stock" : 50,
+        "numOfReviews" : 30,
+        "reviews": []
+    },
+    {
+        "name" : "Treadmill",
+        "price" : "5000",
+        "description" : "Treadmill",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/tm1_gtnglp",
+            "url" : "https://res.cloudinary.com/dy0tqwsxl/image/upload/v1624208456/products/tm1_gtnglp.jpg"
+        }],
+        "category" : "Treadmill",
+        "seller" : "Sport",
+        "stock" : 50,
+        "numOfReviews" : 30,
+        "reviews": []
+    },
+    {
+        "name" : "Weight machines",
+        "price" : "20000",
+        "description" : "Weight machines ",
+        "ratings" : 5,
+        "images" : [
+            {
+                "public_id" : "products/w1_kz6igy",
+                "url" : "https://res.cloudinary.com/dy0tqwsxl/image/upload/v1624208518/products/w1_kz6igy.jpg"
+            },
+            {
+                "public_id" : "products/w2_wnaeai",
+                "url" : "https://res.cloudinary.com/dy0tqwsxl/image/upload/v1624208515/products/w2_wnaeai.jpg" 
+            }
+
+    ],
+        "category" : "Weight machines",
+        "seller" : "Kauffman's ",
+        "stock" : 10,
+        "numOfReviews" : 1,
+        "reviews": []
+    },
+    {
+        "name" : "Doumbals",
+        "price" : "900",
+        "description" : "Doumbalss ",
+        "ratings" : 5,
+        "images" : [
+            {
+                "public_id" : "products/d1_bkglpt",
+                "url" : "https://res.cloudinary.com/dy0tqwsxl/image/upload/v1624208510/products/d1_bkglpt.jpg"
+            },
+            {
+                "public_id" : "products/d2_vauevp",
+                "url" : "https://res.cloudinary.com/dy0tqwsxl/image/upload/v1624208508/products/d2_vauevp.jpg" 
+            }
+
+    ],
+        "category" : "Doumbals",
+        "seller" : "Villiam",
+        "stock" : 100,
+        "numOfReviews" : 1,
+        "reviews": []
+    },
+    {
+        "name" : "Rowing Machines",
+        "price" : "6000",
+        "description" : "Rowing Machines ",
+        "ratings" : 5,
+        "images" : [
+            {
+                "public_id" : "products/r1_ghm05g",
+                "url" : "https://res.cloudinary.com/dy0tqwsxl/image/upload/v1624208503/products/r1_ghm05g.jpg"
+            },
+            {
+                "public_id" : "products/r2_hpasjd",
+                "url" : "https://res.cloudinary.com/dy0tqwsxl/image/upload/v1624208489/products/r2_hpasjd.jpg" 
+            }
+
+    ],
+        "category" : "Rowing Machines",
+        "seller" : "Villiam",
+        "stock" : 100,
+        "numOfReviews" : 1,
+        "reviews": []
+    }
+]
